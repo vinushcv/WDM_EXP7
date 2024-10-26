@@ -32,7 +32,7 @@ in a network of web pages based on the structure of the links between them.
     <p>    Visualize using bar chart to represent authority and hub scores.
 
 ### Program:
-#### Devloped by: Vinush.CV
+#### Developed by: Vinush.CV
 #### Reg no: 212222230176
 ```python
 import numpy as np
